@@ -1,11 +1,11 @@
 # NASA-SPACE-2019-James-Webb
 ![](https://images-2019.spaceappschallenge.org/team-photos/inRscHj8JfB3kC0s-gNie89bgrI=/10356/width-800/)
-## 背景資訊：
+## 背景資訊（Backgrond Information）：
 詹姆斯韋柏太空望遠鏡(JWST)是一項浩大的工程，從原定花費五億美元並計畫在2007年升空到追加九十多億預算且推延到2021年發射這點便可略知其工程之浩大與複雜。作為哈伯太空望遠鏡的後繼計畫，他將前往太陽與地球的第二拉格朗日點，飄盪在地球被向太陽方一百五十萬公里的太空中。
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/James_Webb_Space_Telescope_2009_top.jpg/1920px-James_Webb_Space_Telescope_2009_top.jpg)
 她為了完成調查宇宙微波背景輻射，搭載了高精度紅外線傳感器、光譜儀等酬載，並透過可折疊的遮光板降低干擾。這個任務能夠為人類對宇宙歷史的探索又向外邁出大大的一步，無論最後世界的真相為何，人類勇於挑戰未知的精神已然被記錄。因此，將這些航天工程的發展項目推廣到世界，對於人類社會的發展有著極大的好處。
 
-## 遇到的問題：
+## 遇到的問題（Difficulty）：
 這些複雜的科學工業技術很難一下子進入所有人的視野中，強行不斷播送相關消息不敷成本也難得到實際效益。於是我們使用最樸實的方式，打造一款具有教學意義且能夠不斷刺激玩家之間討論的遊戲！
 
 我們希望能達到以下效果：
@@ -14,7 +14,7 @@
 * 技能頁面透過列表與相應的條件邏輯，進而讓玩家認識硬體與技術。
 * 輔以真實效果極佳的 NASA 3D 模型，願拉近人們與科學間的距離。
 
-## 我們的解決方案：
+## 我們的解決方案（Our Solution）：
 透過 Unity 的介面以及 NASA 所提供的 Specs Model，我們為您帶來一款引人入勝的韋柏太空望遠鏡計畫經營模擬遊戲。在遊戲過程中，透過研究、投資的不同比重會導致不同的技術力、金融狀況，這些會導致玩家在開發太空望遠鏡的計畫進度上有所差距。
 ![](https://i.imgur.com/hS25nCP.png)
 
@@ -37,12 +37,11 @@
 ![](https://i.imgur.com/IECIigv.jpg)
 >開發過程 —— Seal & Friends Team
 
-我們的成果：
+## 我們的成果（Result）：
 * GitHub: https://github.com/William-Mou/NASA-SPACE-2019-James-Webb/tree/master
 * Assets: https://drive.google.com/drive/u/3/folders/12vuvHbuD7PKbY4OLaTunk19WUdkLu4VH?usp=sharing
 
-### Resource:
-
+## 參考資源（Referenced Resource）：
 1. https://jwst.nasa.gov/content/observatory/instruments/index.html
 2. https://jwst.nasa.gov/content/observatory/instrume...
 3. https://jwst.nasa.gov/content/observatory/instrume...
