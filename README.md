@@ -38,7 +38,8 @@
 >開發過程 —— Seal & Friends Team
 
 我們的成果：
-https://github.com/William-Mou/NASA-SPACE-2019-Jam...
+* GitHub: https://github.com/William-Mou/NASA-SPACE-2019-James-Webb/tree/master
+* Assets: https://drive.google.com/drive/u/3/folders/12vuvHbuD7PKbY4OLaTunk19WUdkLu4VH?usp=sharing
 
 ### Resource:
 
