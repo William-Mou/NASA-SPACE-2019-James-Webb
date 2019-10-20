@@ -46,10 +46,9 @@
 
 ## 參考資源（Referenced Resource）：
 1. https://jwst.nasa.gov/content/observatory/instruments/index.html
-2. https://jwst.nasa.gov/content/observatory/instrume...
-3. https://jwst.nasa.gov/content/observatory/instrume...
+2. https://jwst.nasa.gov/content/observatory/instruments/nircam.html
+3. https://jwst.nasa.gov/content/observatory/instruments/nirspec.html
 4. https://nasa3d.arc.nasa.gov
 5. SpaceX
 
 ![](https://i.imgur.com/5sOyYs1.png)
- 
