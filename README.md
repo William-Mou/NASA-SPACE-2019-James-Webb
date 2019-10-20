@@ -37,10 +37,11 @@
 ![](https://i.imgur.com/IECIigv.jpg)
 >開發過程 —— Seal & Friends Team
 
-我們的成果：
+### 我們的成果：
+* 執行檔: https://drive.google.com/open?id=1cefYBGWJX1WMYRXnS6cBgY-Ii0dGMokX
 * GitHub: https://github.com/William-Mou/NASA-SPACE-2019-James-Webb/tree/master
 * Assets: https://drive.google.com/drive/u/3/folders/12vuvHbuD7PKbY4OLaTunk19WUdkLu4VH?usp=sharing
-
+* Slide: https://drive.google.com/open?id=1cefYBGWJX1WMYRXnS6cBgY-Ii0dGMokX
 ### Resource:
 
 1. https://jwst.nasa.gov/content/observatory/instruments/index.html
