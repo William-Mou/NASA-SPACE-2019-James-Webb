@@ -44,6 +44,7 @@
 * Assets: https://drive.google.com/drive/u/3/folders/12vuvHbuD7PKbY4OLaTunk19WUdkLu4VH?usp=sharing
 * Slide: https://drive.google.com/open?id=1cefYBGWJX1WMYRXnS6cBgY-Ii0dGMokX
 
+## 參考資源（Referenced Resource）：
 1. https://jwst.nasa.gov/content/observatory/instruments/index.html
 2. https://jwst.nasa.gov/content/observatory/instrume...
 3. https://jwst.nasa.gov/content/observatory/instrume...
