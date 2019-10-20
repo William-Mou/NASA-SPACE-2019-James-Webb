@@ -1,0 +1,9 @@
+Temp/StagingArea/. filter=lfs diff=lfs merge=lfs -text
+Library/metadata/ filter=lfs diff=lfs merge=lfs -text
+Temp/StagingArea/ filter=lfs diff=lfs merge=lfs -text
+Assets/3D_Module filter=lfs diff=lfs merge=lfs -text
+File filter=lfs diff=lfs merge=lfs -text
+Assets/3D_Module/JWST/JSWTfromMaya.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/3D_Module/JWST/JWST_a1.mb filter=lfs diff=lfs merge=lfs -text
+Library/metadata/a2/a2e6077645842459fb16949ca9ff0e7e filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
